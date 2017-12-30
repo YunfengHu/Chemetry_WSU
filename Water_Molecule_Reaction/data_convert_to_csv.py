@@ -26,7 +26,7 @@ def main():
 					tempt = list(filter(None, line))
 					if len(tempt) == 0:
 						continue
-					if tempt[0] == '32':
+					if (tempt[0] == '32') & (len(tempt) == 1):
 						continue 
 					if tempt[0] == '#snapshot':
 						i = tempt[1]
