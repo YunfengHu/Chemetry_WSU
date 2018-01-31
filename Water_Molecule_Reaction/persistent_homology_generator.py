@@ -19,14 +19,12 @@ m = d.homology_persistence(f)
 
 
 for i in range(len(m)):
-	# boundary = f[i].boundary()
-	# print (list(boundary))
-	# print (i, str(f[i]).split()[0])
 	if m.pair(i) < i: continue      # skip negative simplices
 	dim = f[i].dimension()
 	if m.pair(i) != m.unpaired:
-		# print(dim, i, m.pair(i), list(f[i])) # for generator
-		print(dim, i, m.pair(i), list(f[m.pair(i)].boundary()))
+		print(dim, i, m.pair(i), list(f[i])) # for generator
+# 		print(dim, i, m.pair(i), list(f[m.pair(i)].boundary())) # actual cycle
 	else:
-		print(dim, i, list(f.__getitem__(i).boundary()))
+		print(dim, i, list(f[i])) # for generator
+# 		print(dim, i, list(f.__getitem__(i).boundary()))
 
