@@ -1,0 +1,1733 @@
+EXECUTABLE = /usr/bin/python3
+UNIVERSE = Vanilla
+SHOULD_TRANSFER_FILES = If_needed
+WHEN_TO_TRANSFER_OUTPUT = On_Exit
+getenv = True
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A151.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A16.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A156.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A11.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B202.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A158.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A124.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A63.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A123.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A64.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B205.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A18.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A80.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A51.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A116.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A87.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A56.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A111.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A24.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A163.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B183.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A89.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A58.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B184.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A118.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A23.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A164.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A109.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B195.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A32.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A35.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A172.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A49.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A98.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B192.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A2.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A47.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A100.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A96.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A40.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A107.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A91.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A5.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A132.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A75.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B214.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A149.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B213.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A135.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A72.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B178.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A147.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B176.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A140.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B185.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A119.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A22.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A165.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A25.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A162.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B182.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A88.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A59.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A86.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A57.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A110.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A81.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A50.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A117.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A122.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A65.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B204.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A19.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B203.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A159.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A125.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A62.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A157.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A10.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A150.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A17.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A141.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A146.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B177.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A148.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B212.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A134.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A73.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B179.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A133.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A74.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B215.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A41.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A106.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A90.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A4.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A3.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A46.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A101.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A97.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A34.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A48.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A99.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B193.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A108.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B194.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A33.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A145.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A139.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B174.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A79.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B173.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A142.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A77.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A130.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B216.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B211.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A70.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A137.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A39.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A102.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A45.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A94.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A105.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A42.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A93.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B199.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A7.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B197.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A30.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A9.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A170.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A37.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B190.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A161.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A26.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B181.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B186.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A166.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A21.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B188.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A82.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A114.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A53.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A168.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A28.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A85.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A113.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A54.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B200.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A61.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A126.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A66.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A121.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B207.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A68.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B209.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A14.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A153.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A13.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A154.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A128.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A171.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A36.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B191.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B196.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A31.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A8.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A104.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A43.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A92.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B198.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A6.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A38.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A1.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A103.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A44.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A95.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B210.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A71.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A136.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A76.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A131.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A78.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A143.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A144.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A138.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B175.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A12.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A155.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A129.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A69.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B208.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A15.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A152.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A67.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A120.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B206.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B201.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A60.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A127.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A29.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A84.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A112.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A55.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B189.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A83.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A115.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A52.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A169.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B187.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A167.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A20.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A160.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-A27.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
+ARGUMENTS = /san/home/yunfeng.hu/Chemistry/PythonCode/barcode_generator_file.py --inputPath /san/home/yunfeng.hu/Chemistry/all_64rep_csv/ --outputPath /san/home/yunfeng.hu/Chemistry/all_64rep_barcode_20170714/ --inputFile 64rep-B180.csv
+OUTPUT = condor_test.out
+ERROR = condor_test.err
+stream_error = True
+request_memory = 50
+stream_output = True
+Queue
+
